@@ -7,7 +7,7 @@
 - Always exited to learn new frameworks and technologies to use in my projects.
 - My hobbies include reading, watching movies, and coding.
 
-## Reach Me
+## Connect with me
 
 <a href="https://www.linkedin.com/in/zohaibhamdule/" target="_blank">
 <img src="resources/linkedin.png", height="35" width="auto" alt="Linked_In"></img></a>
