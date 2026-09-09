@@ -33,10 +33,10 @@
 <img src="resources/mail.png" height="35" width="auto" alt="Email"></img></a>
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib2002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zohaib2002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Github Stat
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaib2002&theme=radical)
+![Zohaib's GitHub stats](https://github-stats-extended.vercel.app/api?username=zohaib2002&theme=radical)
 
 <!---
 zohaib2002/zohaib2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
