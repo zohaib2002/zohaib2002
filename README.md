@@ -1,9 +1,9 @@
 <img src="resources/cover.gif" alt="Header_gif"></img>
 
 ## Hi there, I'm Zohaib Hamdule <img src="resources/wave_hand.gif" height=30 width=auto></img>
-- I'm currently pursuing B.E in Computer Science & Engineering from University of Mumbai.
+- Ex-Intern @ Intel | M. Tech. CSE @ NIT Goa | B. Eng. CSE @ University of Mumbai
 - I have been developing apps for android using Flutter: <a href="https://play.google.com/store/apps/dev?id=5723138007978040734" target="_blank">XAMPLE</a>
-- I am currently learning Reactjs.
+- I am currently learning PyTorch.
 - Always exited to learn new frameworks and technologies to use in my projects.
 - My hobbies include reading, watching movies, and coding.
 
